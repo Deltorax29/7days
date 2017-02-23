@@ -1,3 +1,4 @@
+
 [S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
 Setting breakpad minidump AppID = 251570
 path[0] = '/opt/steamcmd/7daysded/7DaysToDieServer_Data/Managed'
